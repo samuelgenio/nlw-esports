@@ -46,7 +46,7 @@ npm run dev
 npm install
 npm run dev
 ```
-### mobile
+### app
 1. Install all dependencies
 ```sh
 npm install
